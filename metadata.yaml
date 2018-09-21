@@ -1,5 +1,8 @@
 _repo: Military-History-Lectures-Delivered-at-Trinity-College-Cambridge_54417
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54417-h/images/cover.jpg
 creator:
   author:
     agent_name: Fortescue, J. W. (John William), Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8884
     wikipedia: http://en.wikipedia.org/wiki/John_William_Fortescue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54417#Military-History-Lectures-Delivered-at-Trinity-College-Cambridge
 gutenberg_issued: '2017-03-23'
 gutenberg_type: Text
 identifiers:
